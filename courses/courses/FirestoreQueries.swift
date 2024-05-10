@@ -2,7 +2,7 @@
 //  FirestoreQueries.swift
 //  courses
 //
-//  Created by Ayaan Shahab on 2023-12-27.
+//  Created by Ayaan on 2023-12-27.
 //
 
 import Foundation
