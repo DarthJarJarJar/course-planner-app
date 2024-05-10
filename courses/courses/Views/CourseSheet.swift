@@ -2,7 +2,7 @@
 //  CourseSheet.swift
 //  courses
 //
-//  Created by Ayaan Shahab on 2023-12-28.
+//  Created by Ayaan  on 2023-12-28.
 //
 
 import SwiftUI
